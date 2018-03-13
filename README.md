@@ -32,7 +32,7 @@ define("GOOGLE_CONTACTS_GROUP", "Mozilla Club"); // google contacts group name
 
 ## Contribute
 
-- Start it
+- Star it
 - Fork it
 - Open an issue
 - Make a PR
