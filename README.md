@@ -19,7 +19,7 @@ Whatsapp doest allows you to import bulk list of numbers to a group chat. **what
 4. configure settings
 
 ```php
-define("CSV_FILE", "mm.csv"); // your bulk numbers file name
+define("CSV_FILE", "numbers.csv"); // your bulk numbers file name
 define("OUT_CSV_FILE", "import.csv"); // output file name
 define("SEARCH_PREFIX", "newmembers"); // contact prefix
 define("GOOGLE_CONTACTS_GROUP", "Mozilla Club"); // google contacts group name
